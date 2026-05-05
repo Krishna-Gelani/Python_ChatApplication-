@@ -1,18 +1,4 @@
-READM# Oasis Infobyte Internship Project
-
-
-
-\## Internship Details
-
-\- Organization: Oasis Infobyte
-
-\- Domain: Python Programming
-
-\- Task: Task 5 – Chat Application
-
-\- Intern Name: Gelani krishna prakashbhai
-
-
+READM# 
 
 \## Objective
 
